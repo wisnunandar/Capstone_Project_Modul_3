@@ -65,7 +65,7 @@ orjson==3.11.3
 ormsgpack==1.11.0
 packaging==24.2
 pandas==2.3.3
-parso==0.10.4
+parso==0.8.4
 pickleshare==0.7.5
 pillow==11.3.0
 platformdirs==4.3.6
@@ -73,14 +73,14 @@ portalocker==2.10.1
 prompt_toolkit==3.0.48
 propcache==0.4.1
 protobuf==6.33.0
-psutil==6.1.0
+psutil==5.9.5
 pure_eval==0.2.3
 pyarrow==22.0.0
 pydantic==2.12.3
 pydantic_core==2.41.4
 pydeck==0.9.1
 Pygments==2.19.2
-python-dateutil==2.9.0
+python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytz==2025.2
 PyYAML==6.0.3
